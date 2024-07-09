@@ -1,0 +1,282 @@
+Product Index
+Integrated Circuits (ICs)
+Power Management (PMIC)
+Gate Drivers
+Texas Instruments UCC27624QDGNRQ1
+Dark Mode
+UCC27624QDGNRQ1
+INA129UAE4
+Image shown is a representation only. Exact specifications should be obtained from the product data sheet.
+DigiKey Part Number
+296-UCC27624QDGNRQ1TR-ND - Tape & Reel (TR)
+296-UCC27624QDGNRQ1CT-ND - Cut Tape (CT)
+296-UCC27624QDGNRQ1DKR-ND - Digi-Reel®
+Manufacturer
+Texas Instruments
+Manufacturer Product Number
+UCC27624QDGNRQ1
+Description
+IC GATE DRVR LOW-SIDE 8HVSSOP
+Manufacturer Standard Lead Time
+6 Weeks
+Customer Reference
+Detailed Description
+Low-Side Gate Driver IC Non-Inverting 8-HVSSOP
+Datasheet
+ Datasheet
+EDA/CAD Models
+UCC27624QDGNRQ1 Models
+In-Stock: 1,832
+Can ship immediately
+QUANTITY
+All prices are in USD
+Cut Tape (CT) & Digi-Reel®
+QUANTITY
+UNIT PRICE	EXT PRICE
+1
+$1.65000	$1.65
+10
+$1.47800	$14.78
+25
+$1.40280	$35.07
+100
+$1.15220	$115.22
+250
+$1.07708	$269.27
+500
+$0.95182	$475.91
+1,000
+$0.75144	$751.44
+* All Digi-Reel orders will add a $7.00 reeling fee.
+Tape & Reel (TR)
+QUANTITY
+UNIT PRICE	EXT PRICE
+2,500
+$0.69286	$1,732.15
+5,000
+$0.65822	$3,291.10
+12,500
+$0.63347	$7,918.38
+Manufacturers Standard Package
+Product Attributes
+TYPE
+DESCRIPTION
+SELECT ALL
+Category
+Integrated Circuits (ICs)
+Power Management (PMIC)
+Gate Drivers
+Manufacturer
+Texas Instruments
+Series
+-
+Packaging
+Tape & Reel (TR)
+Cut Tape (CT)
+Digi-Reel®
+Part Status
+Active
+Driven Configuration
+Low-Side
+Channel Type
+Independent
+Number of Drivers
+2
+Gate Type
+N-Channel MOSFET
+Voltage - Supply
+4.5V ~ 26V
+Logic Voltage - VIL, VIH
+1.2V, 1.8V
+Current - Peak Output (Source, Sink)
+5A, 5A
+Input Type
+Non-Inverting
+Rise / Fall Time (Typ)
+6ns, 10ns
+Operating Temperature
+-40°C ~ 150°C (TJ)
+Grade
+Automotive
+Qualification
+AEC-Q100
+Mounting Type
+Surface Mount
+Package / Case
+8-PowerTSSOP, 8-MSOP (0.118", 3.00mm Width)
+Supplier Device Package
+8-HVSSOP
+Base Product Number
+UCC27624
+Documents & Media
+RESOURCE TYPE	LINK
+Datasheets	UCC27624-Q1
+EDA Models	UCC27624QDGNRQ1 Models
+Environmental & Export Classifications
+ATTRIBUTE	DESCRIPTION
+RoHS Status	ROHS3 Compliant
+Moisture Sensitivity Level (MSL)	1 (Unlimited)
+REACH Status	REACH Unaffected
+ECCN	EAR99
+HTSUS	8542.39.0060
+You May Also Be Interested InSee All 14
+14 Items
+UCC12051QDVERQ1
+UCC12051QDVERQ1
+
+AUTOMOTIVE, 500-MW, 5-KVRMS ISOL
+
+Texas Instruments
+
+$7.45000
+TCN4107M035R0100E
+TCN4107M035R0100E
+
+CAP TANT POLY 100UF 35V 2924
+
+KYOCERA AVX
+
+$4.43000
+UCC27624DGNR
+UCC27624DGNR
+
+IC GATE DRVR LOW-SIDE 8HVSSOP
+
+Texas Instruments
+
+$1.23000
+T521V107M016ATE050
+T521V107M016ATE050
+
+CAP TANT POLY 100UF 16V 2917
+
+KEMET
+
+$2.01000
+NFM21PC104R1E3D
+NFM21PC104R1E3D
+
+CAP FEEDTHRU 0.1UF 20% 25V 0805
+
+Murata Electronics
+
+$0.16000
+BZT52-C18S-AU_R1_000A1
+BZT52-C18S-AU_R1_000A1
+
+SURFACE MOUNT SILICON ZENER DIOD
+
+Panjit International Inc.
+
+$0.21000
+SI52202-A01BGM
+SI52202-A01BGM
+
+IC CLOCK GEN PCIE 20QFN
+
+Skyworks Solutions Inc.
+
+$3.88000
+UCC27624QDRQ1
+UCC27624QDRQ1
+
+IC GATE DRVR LOW-SIDE 8SOIC
+
+Texas Instruments
+
+$1.65000
+16TDC150MYF
+16TDC150MYF
+
+CAP TANT POLY 150UF 16V 2917
+
+Panasonic Electronic Components
+
+$2.17000
+REF5050IDR
+REF5050IDR
+
+IC VREF SERIES 0.05% 8SOIC
+
+Texas Instruments
+
+$6.85000
+SD103AW-TP
+SD103AW-TP
+
+DIODE SCHOTTKY 40V 350MA SOD123
+
+Micro Commercial Co
+
+$0.20000
+TSV321RILT
+TSV321RILT
+
+IC OPAMP GP 1 CIRCUIT SOT23-5
+
+STMicroelectronics
+
+$0.93000
+V8PAL45HM3_A/I
+V8PAL45HM3_A/I
+
+DIODE SCHOTTKY 45V 4A DO221BC
+
+Vishay General Semiconductor - Diodes Division
+
+$0.93000
+74LVC1G157GV-Q100H
+74LVC1G157GV-Q100H
+
+IC MULTIPLEXER 1 X 2:1 6TSOP
+
+Nexperia USA Inc.
+
+$0.46000
+
+Product Questions and Answers
+Take a look at our new Q&A!
+See what engineers are asking, ask your own questions, or help out a member of the DigiKey engineering community by participating in our new product questions and answers feature!
+
+Check it out
+Additional Resources
+ATTRIBUTE	DESCRIPTION
+Other Names	
+296-UCC27624QDGNRQ1DKR
+296-UCC27624QDGNRQ1TR
+296-UCC27624QDGNRQ1CT
+Standard Package	2,500
+ Need Help?  Feedback
+Stay Connected!
+Enter your email
+INFORMATION
+About DigiKey
+Marketplace
+Sell on DigiKey.com
+Careers
+Site Map
+Digital Solutions
+Newsroom
+HELP
+Help and Support
+Order Status
+Shipping Rates/Options
+Returns and Order Issues
+Tariff Information
+CONTACT US
+Chat
+1-800-344-4539
+218-681-6674
+sales@digikey.com
+Co-Browse
+ECIA Member
+This site is protected by VikingCloud's Trusted Commerce program
+FOLLOW US
+Facebook X YouTube Instagram LinkedIn
+Download on the App Store Get it on Google Play
+United StatesUnited States Copyright © 1995-2024, DigiKey. All Rights Reserved. Terms & Conditions Privacy Notice Accessibility Statement Cookie Settings
+Local Support: 701 Brooks Avenue South, Thief River Falls, MN 56701 USA
+Do Not Sell / Do Not Share My Personal Information
+
+By clicking Accept All Cookies, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Cookie Notice
+Cookies SettingsDisable AllAccept All Cookies
